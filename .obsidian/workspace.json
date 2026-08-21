@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "5f033547417a5e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9518b46d5e46fd64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d60b19a1dab0543c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dashboard/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80da6d6044c1766d",
+    "type": "split",
+    "children": [
+      {
+        "id": "09b7607c2a0c8d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5657958a2a1082e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "593fb5e377e620cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f9fe54a1f465fe7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.8999938964844
+  },
+  "right": {
+    "id": "fd1a9d9466da5936",
+    "type": "split",
+    "children": [
+      {
+        "id": "5401e29720fa981a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "800f36cfa7312e13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Dashboard/Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c2f72a88efd99446",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Dashboard/Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1783a7e64c5c7431",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b927ace97c6d69e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a2530c929648ba7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Dashboard/Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d8a67941a749b82b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d60b19a1dab0543c",
+  "lastOpenFiles": [
+    "04 Knowledge/Anatomy of a Linguistics Olympiad problem.md",
+    "05 Resources/Books/Linguistics Olympiad - Training guide.md",
+    "98 Templates/Resource.md",
+    "02 Projects/Project Alcaeus (writing)/Project Alcaeus.md",
+    "Untitled",
+    "05 Resources/Papers",
+    "05 Resources/Books",
+    "01 Dashboard/Dashboard.md",
+    "06 Journal/2026-08-21.md",
+    "98 Templates/Knowledge.md",
+    "00 Inbox/i should restart project hephaestus from scratch.md",
+    "00 Inbox/i should create an obsidian vault.md",
+    "98 Templates/Journal.md",
+    "98 Templates/Project.md",
+    "98 Templates/Project Log.md",
+    "98 Templates/Untitled.md",
+    "03 Areas/Mathematics",
+    "03 Areas/Linguistics",
+    "03 Areas/Informatics",
+    "02 Projects/Project Hephaestus (personal website)/Project Hephaestus.md",
+    "02 Projects/Project Hephaestus (personal website)/Logs",
+    "02 Projects/Project Ogma - Trowch (EOT)/Project Ogma - Trowch.md",
+    "02 Projects/Project Hephaestus (personal website)",
+    "02 Projects/Project Ogma - Trowch (EOT)/Logs",
+    "02 Projects/Project Cicero (communications)/Project Cicero.md",
+    "02 Projects/Project Cicero (communications)/Logs",
+    "02 Projects/Project Athena (informatics olympiad)/Project Athena.md",
+    "02 Projects/Project Athena (informatics olympiad)/Untitled.md",
+    "01 Dashboard/Untitled.md",
+    "01 Dashboard/Untitled 1.md",
+    "01 Dashboard/Project.md",
+    "02 Projects/Project Alcaeus (writing)/Untitled.md",
+    "Welcome.md"
+  ]
+}

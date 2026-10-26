@@ -1,17 +1,22 @@
+---
+date: {{date}}
+type: project-log
+project: 
+activities:
+topics:
+---
 # {{date}}
 
-## Goal
+## What I did
 
-## Work
 
 ## Results
 
+
 ## Problems
 
-## What I learned
-
-## Decisions
-
-## Why
 
 ## Next
+
+
+## Notes

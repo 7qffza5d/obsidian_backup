@@ -1,1 +1,0 @@
-like doing everything again, writing it on my own rather than relying on ai

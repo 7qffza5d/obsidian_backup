@@ -1,8 +1,9 @@
 # {{title}}
+# Author: 
 
 ## Why I'm reading this
 
 ## Important Ideas
 
-## misc
+## Misc
 

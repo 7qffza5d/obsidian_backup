@@ -1,0 +1,1 @@
+I don't think I have or is allowed to frame them, but I want papers taped to the wall. I think finding something nice to hang sounds like a nice activity I could do before going to camp. 

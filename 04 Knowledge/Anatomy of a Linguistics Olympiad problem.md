@@ -1,6 +1,6 @@
 ### Links: [[Linguistics]] [[Olympiad]]
 
-### Tags: 
+### Tags: #unfinished 
 
 # Anatomy of a Linguistics Olympiad problem
 

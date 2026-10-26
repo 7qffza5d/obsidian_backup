@@ -8,20 +8,165 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d60b19a1dab0543c",
+            "id": "06c39748eeadaf2e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 Dashboard/Dashboard.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "403d06d0addf6acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Journal/2026-10-26.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-26"
+            }
+          },
+          {
+            "id": "b3b65b3d12b64861",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Projects/Project Daedalus (blog)/Running Ideas.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Running Ideas"
+            }
+          },
+          {
+            "id": "f507d40fd7482c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Journal/2026-10-23.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-23"
+            }
+          },
+          {
+            "id": "89f68858d29efc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98 Templates/Resource.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Resource"
+            }
+          },
+          {
+            "id": "a15ff13f38a3d877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Journal/2026-10-24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-24"
+            }
+          },
+          {
+            "id": "bd686de3b9817dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98 Templates/Olympiad Problem Template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Olympiad Problem Template"
+            }
+          },
+          {
+            "id": "8e6a1e105eebaed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Establish a Bali-Sanskrit Thai loanword dictionary thingy maging.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Establish a Bali-Sanskrit Thai loanword dictionary thingy maging"
+            }
+          },
+          {
+            "id": "420ba362dd562449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Projects/Project Daedalus (blog)/Project Brief.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Project Brief"
+            }
+          },
+          {
+            "id": "b61b2ee336805a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98 Templates/Project Daedalus Template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Project Daedalus Template"
+            }
+          },
+          {
+            "id": "85edc8128ebddb4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Journal/2026-10-25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-25"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dashboard/Dashboard.md",
+                "file": "02 Projects/Project Alcaeus (writing)/Project Alcaeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,43 +340,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d60b19a1dab0543c",
+  "active": "403d06d0addf6acb",
   "lastOpenFiles": [
+    "01 Dashboard/Dashboard.md",
+    "06 Journal/2026-10-26.md",
+    "02 Projects/Project Daedalus (blog)/Project Daedalus.md",
+    "02 Projects/Project Ogma - Trowch (EOT)/Project Ogma - Trowch.md",
+    "02 Projects/Project Ogma - Trowch (EOT)/Logs/2026-10-26.md",
+    "06 Journal/2026-10-25.md",
+    "02 Projects/Project Daedalus (blog)/Running Ideas.md",
+    "06 Journal/2026-10-24.md",
+    "04 Knowledge/Context-Free Grammar.md",
+    "04 Knowledge/Formal Language.md",
+    "04 Knowledge/Semantic Relations.md",
     "04 Knowledge/Anatomy of a Linguistics Olympiad problem.md",
     "05 Resources/Books/Linguistics Olympiad - Training guide.md",
-    "98 Templates/Resource.md",
-    "02 Projects/Project Alcaeus (writing)/Project Alcaeus.md",
-    "Untitled",
-    "05 Resources/Papers",
-    "05 Resources/Books",
-    "01 Dashboard/Dashboard.md",
-    "06 Journal/2026-08-21.md",
-    "98 Templates/Knowledge.md",
+    "05 Resources/Books/Beej's Guide to Network Programming.md",
+    "07 Media/To Pimp A Butterfly.md",
+    "00 Inbox/Establish a Bali-Sanskrit Thai loanword dictionary thingy maging.md",
+    "00 Inbox/wikipedia.md",
+    "00 Inbox/I should decorate my room with pictures.md",
+    "00 Inbox/on ogma trowch system.md",
     "00 Inbox/i should restart project hephaestus from scratch.md",
-    "00 Inbox/i should create an obsidian vault.md",
-    "98 Templates/Journal.md",
-    "98 Templates/Project.md",
-    "98 Templates/Project Log.md",
-    "98 Templates/Untitled.md",
-    "03 Areas/Mathematics",
-    "03 Areas/Linguistics",
-    "03 Areas/Informatics",
-    "02 Projects/Project Hephaestus (personal website)/Project Hephaestus.md",
-    "02 Projects/Project Hephaestus (personal website)/Logs",
-    "02 Projects/Project Ogma - Trowch (EOT)/Project Ogma - Trowch.md",
-    "02 Projects/Project Hephaestus (personal website)",
-    "02 Projects/Project Ogma - Trowch (EOT)/Logs",
-    "02 Projects/Project Cicero (communications)/Project Cicero.md",
-    "02 Projects/Project Cicero (communications)/Logs",
-    "02 Projects/Project Athena (informatics olympiad)/Project Athena.md",
-    "02 Projects/Project Athena (informatics olympiad)/Untitled.md",
-    "01 Dashboard/Untitled.md",
-    "01 Dashboard/Untitled 1.md",
-    "01 Dashboard/Project.md",
-    "02 Projects/Project Alcaeus (writing)/Untitled.md",
-    "Welcome.md"
+    "98 Templates/Olympiad Problem Template.md",
+    "08 Ideas and Questions/i got me another anthology idea.md",
+    "98 Templates/Olympiad Session Template.md",
+    "02 Projects/Project Athena (informatics olympiad)/Problem Logs",
+    "98 Templates/Project Daedalus Template.md",
+    "02 Projects/Project Daedalus (blog)/Project Brief.md",
+    "02 Projects/Project Eratosthenes (mathematical modeling)/Logs/2026-08-24.md",
+    "02 Projects/Project Daedalus (blog)/Logs",
+    "02 Projects/Project Daedalus (blog)",
+    "97 Meta",
+    "99 Attachments/Papers",
+    "07 Media",
+    "02 Projects/Project Eratosthenes (mathematical modeling)/Logs",
+    "02 Projects/Project Eratosthenes (mathematical modeling)",
+    "67 For Visitors",
+    "05 Resources/Papers"
   ]
 }

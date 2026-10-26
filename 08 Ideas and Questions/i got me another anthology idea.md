@@ -1,0 +1,3 @@
+haven't even wrote compilation yet. i got a new idea.
+
+Chronologically, in my real life, I would write this next year, around July. Hopefully after literally everything has settled. It's gonna be called "The Fall-Out". THD (and compilation at least in my conceptialization) is heavily reliant on knowing me, Krit Kutawan. So I want TFO to be more abstract. Extremely me, still, but could easily be mapped onto other people's lives. So I think it wouldn't be a nonfiction. It would be fiction, that has extreme similarities to real life. That sounds like my Opus now. I definitely can't do it the way I think, but it's important to try. Still a year away, tho.

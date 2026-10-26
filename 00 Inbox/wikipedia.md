@@ -1,0 +1,1 @@
+I had a rabbit hole on Wikipedia's meta pages, which are really fun. I do want to emulate that in some way for this vault. There's even a convenient acronym for me: KW. 

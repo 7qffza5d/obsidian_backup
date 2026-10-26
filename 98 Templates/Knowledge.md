@@ -1,3 +1,11 @@
+---
+type: knowledge
+created: {{date}}
+modified: {{date}}
+activities:
+- document
+topics:
+---
 ### Links:
 
 ### Tags:

@@ -1,0 +1,1 @@
+This folder consists of files clarifying my technical symbols I use throughout this vault for any visitors to the Grand Library. You can find a list to all the disambiguation pages below, or in the folder on your left (can obsidian change that? just go wherever you get folders)
